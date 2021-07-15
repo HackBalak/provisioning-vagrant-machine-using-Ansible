@@ -27,6 +27,6 @@ echo "#############################################################"
 echo "#             connect to omar user using ssh                #"
 echo "#############################################################"
 echo ""
-echo ""
+echo "The password to ssh omar user is :  Password1 "
 ssh-keygen -R 192.168.50.100
 ssh omar@192.168.50.100
