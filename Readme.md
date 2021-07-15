@@ -1,4 +1,4 @@
-## provisoning a vagrant machine using ansible
+## Provisoning a vagrant machine using ansible
  To run this minimal infrastructure , just run the run.sh script
 
 ```bash
