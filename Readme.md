@@ -10,4 +10,4 @@ chmod +x run.sh
  - Virtualbox 
  - ansible
 
-NB : I tested this on a ubuntu host machine machine
+NB : I tested this on a ubuntu host machine.
