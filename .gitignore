@@ -1,0 +1,12 @@
+# OS.
+.DS_Store
+
+# Vagrant.
+.vagrant/
+
+# Ansible.
+*.retry
+*/roles/*
+# ubuntu-bionic log file
+
+ubuntu-bionic-18.04-cloudimg-console.log
